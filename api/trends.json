@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T08:59:22.473541+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2026-01-14T11:04:19.945934+08:00",
+  "total_titles_processed": 985,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国国家航空航天局（NASA）与能源部（DOE）将在2030年之前开发月球表面反应堆（LSR）。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "你的头一直在慢慢3D打印头发",
+          "url": "https://s.weibo.com/weibo?q=%E4%BD%A0%E7%9A%84%E5%A4%B4%E4%B8%80%E7%9B%B4%E5%9C%A8%E6%85%A2%E6%85%A23D%E6%89%93%E5%8D%B0%E5%A4%B4%E5%8F%91&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
         }
       ]
     }
