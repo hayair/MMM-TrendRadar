@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T21:34:17.937546+08:00",
-  "total_titles_processed": 2027,
+  "generated_at": "2026-01-15T22:17:03.202271+08:00",
+  "total_titles_processed": 2119,
   "failed_sources": [],
   "trends": [
     {
@@ -45,11 +45,12 @@
           "url": "https://search.bilibili.com/all?keyword=KPL",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 21时34分]"
+          "appearance_count": 4,
+          "time_info": "[20时24分 ~ 22时17分]"
         },
         {
           "title": "美国航空航天局（NASA）官员：患有疾病的宇航员目前情况良好。",
