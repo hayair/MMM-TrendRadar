@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T20:24:43.316603+08:00",
-  "total_titles_processed": 1911,
+  "generated_at": "2026-01-15T21:34:17.937546+08:00",
+  "total_titles_processed": 2027,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -41,6 +41,17 @@
           "time_info": "19时13分"
         },
         {
+          "title": "DRG vs KSG KPL春季赛",
+          "url": "https://search.bilibili.com/all?keyword=KPL",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 21时34分]"
+        },
+        {
           "title": "美国航空航天局（NASA）官员：患有疾病的宇航员目前情况良好。",
           "url": "https://flash.jin10.com/detail/20260115185020400800",
           "source": "金十数据",
@@ -50,17 +61,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
-        },
-        {
-          "title": "DRG vs KSG KPL春季赛",
-          "url": "https://search.bilibili.com/all?keyword=KPL",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
         }
       ]
     }
