@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T18:15:16.576700+08:00",
-  "total_titles_processed": 1720,
+  "generated_at": "2026-01-15T19:13:14.042470+08:00",
+  "total_titles_processed": 1810,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国国家航空航天局（NASA）宇航员在加利福尼亚海域成功降落，他们提前结束了太空站任务，原因是一项医疗问题。",
@@ -17,6 +17,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
+        },
+        {
+          "title": "美国航空航天局（NASA）方面表示，一名宇航员出现“严重的医疗状况”。",
+          "url": "https://flash.jin10.com/detail/20260115190332557800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "美国航空航天局（NASA）官员：患有疾病的宇航员目前情况良好。",
+          "url": "https://flash.jin10.com/detail/20260115185020400800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         }
       ]
     }
