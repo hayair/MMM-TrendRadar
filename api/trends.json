@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T16:15:46.874738+08:00",
-  "total_titles_processed": 1141,
+  "generated_at": "2026-01-17T17:13:00.565250+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时12分 ~ 16时15分]"
+          "appearance_count": 5,
+          "time_info": "[15时12分 ~ 17时13分]"
         },
         {
           "title": "器官也能3D打印了",
