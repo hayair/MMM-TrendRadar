@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-17T14:18:11.621074+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-01-17T15:13:06.442286+08:00",
+  "total_titles_processed": 1078,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "DRG vs eStarPro KPL春季赛",
+          "url": "https://search.bilibili.com/all?keyword=KPL",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时12分 ~ 15时13分]"
+        },
         {
           "title": "器官也能3D打印了",
           "url": "https://s.weibo.com/weibo?q=%23%E5%99%A8%E5%AE%98%E4%B9%9F%E8%83%BD3D%E6%89%93%E5%8D%B0%E4%BA%86%23&t=31&band_rank=3&Refer=top",
