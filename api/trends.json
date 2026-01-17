@@ -1,49 +1,22 @@
 {
-  "generated_at": "2026-01-17T23:11:49.644907+08:00",
-  "total_titles_processed": 1606,
+  "generated_at": "2026-01-18T00:13:17.596134+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "DRG vs eStarPro KPL春季赛",
-          "url": "https://search.bilibili.com/all?keyword=KPL",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时12分 ~ 17时13分]"
-        },
-        {
-          "title": "器官也能3D打印了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%99%A8%E5%AE%98%E4%B9%9F%E8%83%BD3D%E6%89%93%E5%8D%B0%E4%BA%86%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时17分]"
-        },
         {
           "title": "NASA将把SLS火箭运至发射台 4月前冲刺载人绕月",
           "url": "https://flash.jin10.com/detail/20260117194200158800",
           "source": "金十数据",
           "ranks": [
-            6,
-            9,
-            17,
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时21分 ~ 23时11分]"
+          "appearance_count": 1,
+          "time_info": "00时13分"
         }
       ]
     }
