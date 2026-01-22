@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T18:18:35.992550+08:00",
-  "total_titles_processed": 1664,
+  "generated_at": "2026-01-22T19:16:48.658875+08:00",
+  "total_titles_processed": 1774,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             10,
             7,
             6,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时21分 ~ 18时18分]"
+          "appearance_count": 8,
+          "time_info": "[14时21分 ~ 19时16分]"
         },
         {
           "title": "纳斯达克生物科技指数收涨超2.4%，表现好于美股大盘指数。 成分股诺瓦瓦克斯医药收涨20.67%，Ironwood医药、莫德纳Moderna、Vir Biotech、BioNTech、Annexon、Aura Biosciences涨15.94%-10.26%，Solid Biosciences涨9.61%。 Zenas Biopharma则收跌6.18%，PepGen跌9.08%，Legend Bio跌11.40%。",
@@ -53,7 +54,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
