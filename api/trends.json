@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T02:19:22.048916+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-01-23T03:19:28.418076+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 02时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 03时19分]"
         },
         {
           "title": "NASA辟谣地球将失重7秒",
@@ -26,11 +26,12 @@
           "ranks": [
             9,
             14,
-            16
+            16,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 02时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 03时19分]"
         }
       ]
     }
