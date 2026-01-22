@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T15:20:41.293571+08:00",
-  "total_titles_processed": 1372,
+  "generated_at": "2026-01-22T16:19:10.466239+08:00",
+  "total_titles_processed": 1475,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时21分 ~ 15时20分]"
+          "appearance_count": 5,
+          "time_info": "[14时21分 ~ 16时19分]"
         },
         {
           "title": "地球将失重7秒致千万人死？NASA辟谣",
@@ -25,11 +25,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时21分 ~ 15时20分]"
+          "appearance_count": 5,
+          "time_info": "[14时21分 ~ 16时19分]"
         },
         {
           "title": "纳斯达克生物科技指数收涨超2.4%，表现好于美股大盘指数。 成分股诺瓦瓦克斯医药收涨20.67%，Ironwood医药、莫德纳Moderna、Vir Biotech、BioNTech、Annexon、Aura Biosciences涨15.94%-10.26%，Solid Biosciences涨9.61%。 Zenas Biopharma则收跌6.18%，PepGen跌9.08%，Legend Bio跌11.40%。",
