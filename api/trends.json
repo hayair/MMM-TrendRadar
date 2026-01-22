@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T14:21:36.693018+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2026-01-22T15:20:41.293571+08:00",
+  "total_titles_processed": 1372,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://search.bilibili.com/all?keyword=KPL",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 15时20分]"
         },
         {
           "title": "地球将失重7秒致千万人死？NASA辟谣",
           "url": "https://www.baidu.com/s?wd=%E5%9C%B0%E7%90%83%E5%B0%86%E5%A4%B1%E9%87%8D7%E7%A7%92%E8%87%B4%E5%8D%83%E4%B8%87%E4%BA%BA%E6%AD%BB%EF%BC%9FNASA%E8%BE%9F%E8%B0%A3",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 15时20分]"
         },
         {
           "title": "纳斯达克生物科技指数收涨超2.4%，表现好于美股大盘指数。 成分股诺瓦瓦克斯医药收涨20.67%，Ironwood医药、莫德纳Moderna、Vir Biotech、BioNTech、Annexon、Aura Biosciences涨15.94%-10.26%，Solid Biosciences涨9.61%。 Zenas Biopharma则收跌6.18%，PepGen跌9.08%，Legend Bio跌11.40%。",
