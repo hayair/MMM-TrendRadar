@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T22:12:09.073842+08:00",
-  "total_titles_processed": 1300,
+  "generated_at": "2026-01-25T23:12:18.378508+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“商业航天+3D打印”受追捧！产业链公司透露最新进展 专家：多环节尚在小批量试制阶段",
@@ -32,6 +32,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[20时22分 ~ 22时12分]"
+        },
+        {
+          "title": "DRG战胜JDG VCT启点赛",
+          "url": "https://search.bilibili.com/all?keyword=DRG%20JDG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         }
       ]
     }
