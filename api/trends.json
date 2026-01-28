@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T17:26:18.917747+08:00",
-  "total_titles_processed": 1602,
+  "generated_at": "2026-01-28T18:19:34.701021+08:00",
+  "total_titles_processed": 1698,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "地球失重人类团灭?NASA:假!",
@@ -16,11 +16,12 @@
             13,
             18,
             21,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时19分 ~ 17时26分]"
+          "appearance_count": 22,
+          "time_info": "[00时19分 ~ 18时19分]"
         },
         {
           "title": "创业板指跌超1%，沪指涨0.17%，深成指跌0.44%，光伏设备、机器人、军工、医疗器械等方向跌幅居前，沪深京三市下跌个股超3600只。",
@@ -44,6 +45,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "JDG VS DRG KPL春季赛",
+          "url": "https://search.bilibili.com/all?keyword=KPL",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "Prosus于1月19-23日当周按均价51.0528欧元回购股票182.2206万，合计超0.930亿欧元（折合将近1.090亿美元）。 Naspers同期按均价1034.9077南非兰特回购75.0662万，合计超7.768亿兰特（折合0.478亿美元）。",
