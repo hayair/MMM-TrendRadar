@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T15:19:08.377118+08:00",
-  "total_titles_processed": 1394,
+  "generated_at": "2026-01-28T16:19:47.347449+08:00",
+  "total_titles_processed": 1493,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             9,
             13,
             18,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时19分 ~ 15时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时19分 ~ 16时19分]"
         },
         {
           "title": "创业板指跌超1%，沪指涨0.17%，深成指跌0.44%，光伏设备、机器人、军工、医疗器械等方向跌幅居前，沪深京三市下跌个股超3600只。",
