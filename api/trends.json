@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T22:16:16.126852+08:00",
-  "total_titles_processed": 1507,
+  "generated_at": "2026-01-31T23:14:16.500137+08:00",
+  "total_titles_processed": 1554,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=AG%20DRG",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时24分"
+          "appearance_count": 3,
+          "time_info": "[20时24分 ~ 23时14分]"
         }
       ]
     }
