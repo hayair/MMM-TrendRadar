@@ -1,39 +1,7 @@
 {
-  "generated_at": "2026-02-01T23:16:10.689078+08:00",
-  "total_titles_processed": 1348,
+  "generated_at": "2026-02-02T00:17:24.688084+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "AG战胜DRG VCT启点赛",
-          "url": "https://search.bilibili.com/all?keyword=AG%20DRG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            4,
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 09时17分]"
-        },
-        {
-          "title": "DRG VS Hero KPL春季赛",
-          "url": "https://search.bilibili.com/all?keyword=KPL",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时37分 ~ 16时21分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
