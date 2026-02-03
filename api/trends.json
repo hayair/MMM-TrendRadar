@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T21:57:58.867413+08:00",
-  "total_titles_processed": 1859,
+  "generated_at": "2026-02-03T22:40:57.025510+08:00",
+  "total_titles_processed": 1932,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时34分 ~ 21时57分]"
+          "appearance_count": 4,
+          "time_info": "[20时34分 ~ 22时40分]"
         },
         {
           "title": "NASA推迟“阿尔忒弥斯2号”发射计划",
