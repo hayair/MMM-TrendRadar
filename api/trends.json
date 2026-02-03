@@ -1,70 +1,33 @@
 {
-  "generated_at": "2026-02-03T23:40:03.839080+08:00",
-  "total_titles_processed": 2014,
+  "generated_at": "2026-02-04T00:40:58.679877+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
-          "title": "DRG vs TYL VCT启点赛",
+          "title": "DRG战胜TYL VCT启点赛",
           "url": "https://search.bilibili.com/all?keyword=DRG%20TYL",
           "source": "bilibili 热搜",
           "ranks": [
-            4,
-            15,
-            22,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时34分 ~ 23时40分]"
-        },
-        {
-          "title": "国产飞牛系统 FNOS 修复重大安全漏洞后未发公告，如何看待这种信息披露方式？",
-          "url": "https://www.zhihu.com/question/2000917932214075464",
-          "source": "知乎",
-          "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时10分"
-        },
-        {
-          "title": "NASA推迟“阿尔忒弥斯2号”发射计划",
-          "url": "https://wallstreetcn.com/livenews/3049038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时27分]"
+          "time_info": "00时40分"
         },
         {
           "title": "Prosus于1月26-30日当周按均值49.9973欧元回购股票17.56605万股，合计0.878亿欧元（折合1.047亿美元）。 Naspers同期按均价1027.0534南非兰特回购股票64.7万股，合计6.645亿兰特（折合0.417亿美元）。",
           "url": "https://wallstreetcn.com/livenews/3049207",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "NASA推迟“阿尔忒弥斯2号”绕月任务发射计划",
-          "url": "https://flash.jin10.com/detail/20260203175605496800",
-          "source": "金十数据",
-          "ranks": [
-            20
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时31分"
+          "time_info": "00时40分"
         }
       ]
     }
