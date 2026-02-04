@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T07:20:14.007214+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2026-02-04T09:05:14.750622+08:00",
+  "total_titles_processed": 883,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 09时05分]"
         },
         {
           "title": "周二（2月3日）美股尾盘，彭博电动汽车价格回报指数涨1.72%，报3509.86点，全天持续走高。 成分股MP材料目前涨7.77%，Sona Blw Precision Forgings Ltd.收涨6.15%，中创新航科技集团H股收涨4.85%，禾赛科技涨4%，美国雅宝涨超3.7%，Panasonic株式会社收涨3.75%，广州汽车集团H股收涨3.39%表现第七，文远知行则跌超3.1%，MobilEye Global Inc.跌4.1%，安霸股份跌4.8%。",
