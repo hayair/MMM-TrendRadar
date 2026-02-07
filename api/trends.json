@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T22:17:56.040461+08:00",
-  "total_titles_processed": 1504,
+  "generated_at": "2026-02-07T23:16:24.206885+08:00",
+  "total_titles_processed": 1551,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
             1,
             11,
             15,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时15分 ~ 22时17分]"
+          "appearance_count": 8,
+          "time_info": "[18时15分 ~ 23时16分]"
         },
         {
           "title": "NASA允许宇航员携带iPhone执行太空任务",
@@ -45,11 +46,12 @@
           "ranks": [
             4,
             13,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 22时17分]"
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 23时16分]"
         },
         {
           "title": "DRG vs EDG VCT启点赛",
