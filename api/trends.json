@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T00:17:48.443402+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-08T01:19:08.077672+08:00",
+  "total_titles_processed": 348,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=DRG%20EDG",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时19分]"
         },
         {
           "title": "NASA允许宇航员携带iPhone执行太空任务",
@@ -26,8 +27,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时19分]"
         }
       ]
     }
