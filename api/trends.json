@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T18:15:58.056102+08:00",
-  "total_titles_processed": 1273,
+  "generated_at": "2026-02-07T19:15:02.289596+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "BLG零封DRG",
@@ -29,11 +29,23 @@
           "url": "https://search.bilibili.com/all?keyword=DRG%20EDG",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 19时15分]"
+        },
+        {
+          "title": "NASA允许宇航员携带iPhone执行太空任务",
+          "url": "https://flash.jin10.com/detail/20260207174857015800",
+          "source": "金十数据",
+          "ranks": [
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "19时15分"
         },
         {
           "title": "DRG vs EDG VCT启点赛",
