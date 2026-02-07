@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T04:15:55.827899+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-02-08T05:17:01.346372+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             11,
             17,
             18,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 05时17分]"
         },
         {
           "title": "NASA允许宇航员携带iPhone执行太空任务",
@@ -29,8 +30,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 05时17分]"
         }
       ]
     }
