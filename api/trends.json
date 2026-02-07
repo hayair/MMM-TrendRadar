@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T21:38:01.886201+08:00",
-  "total_titles_processed": 1463,
+  "generated_at": "2026-02-07T22:17:56.040461+08:00",
+  "total_titles_processed": 1504,
   "failed_sources": [],
   "trends": [
     {
@@ -31,22 +31,12 @@
           "ranks": [
             1,
             11,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时15分 ~ 21时38分]"
-        },
-        {
-          "title": "DRG vs EDG VCT启点赛",
-          "url": "https://search.bilibili.com/all?keyword=DRG%20EDG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 17时21分]"
+          "appearance_count": 7,
+          "time_info": "[18时15分 ~ 22时17分]"
         },
         {
           "title": "NASA允许宇航员携带iPhone执行太空任务",
@@ -58,8 +48,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 21时38分]"
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 22时17分]"
+        },
+        {
+          "title": "DRG vs EDG VCT启点赛",
+          "url": "https://search.bilibili.com/all?keyword=DRG%20EDG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时25分 ~ 17时21分]"
         }
       ]
     }
