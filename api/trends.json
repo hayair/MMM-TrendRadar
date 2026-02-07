@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T20:25:35.583160+08:00",
-  "total_titles_processed": 1397,
+  "generated_at": "2026-02-07T21:38:01.886201+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时15分 ~ 20时25分]"
+          "appearance_count": 6,
+          "time_info": "[18时15分 ~ 21时38分]"
         },
         {
           "title": "DRG vs EDG VCT启点赛",
@@ -53,11 +54,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时25分]"
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时38分]"
         }
       ]
     }
