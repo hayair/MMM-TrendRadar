@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T18:17:11.443112+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-02-08T19:16:01.918890+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
@@ -25,6 +25,19 @@
           "time_info": "[00时17分 ~ 13时56分]"
         },
         {
+          "title": "LGD.NBW vs 佛山DRG KPL",
+          "url": "https://search.bilibili.com/all?keyword=KPL",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时21分 ~ 19时16分]"
+        },
+        {
           "title": "NASA允许宇航员携带iPhone执行太空任务",
           "url": "https://flash.jin10.com/detail/20260207174857015800",
           "source": "金十数据",
@@ -34,18 +47,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时17分 ~ 07时19分]"
-        },
-        {
-          "title": "LGD.NBW vs 佛山DRG KPL",
-          "url": "https://search.bilibili.com/all?keyword=KPL",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 18时17分]"
         }
       ]
     }
