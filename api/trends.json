@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-08T19:16:01.918890+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2026-02-08T20:26:12.501904+08:00",
+  "total_titles_processed": 1169,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
       "match_count": 3,
       "titles": [
+        {
+          "title": "LGD.NBW vs 佛山DRG KPL",
+          "url": "https://search.bilibili.com/all?keyword=KPL",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时21分 ~ 20时26分]"
+        },
         {
           "title": "EDG战胜DRG",
           "url": "https://search.bilibili.com/all?keyword=DRG%20EDG",
@@ -23,19 +36,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时17分 ~ 13时56分]"
-        },
-        {
-          "title": "LGD.NBW vs 佛山DRG KPL",
-          "url": "https://search.bilibili.com/all?keyword=KPL",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时21分 ~ 19时16分]"
         },
         {
           "title": "NASA允许宇航员携带iPhone执行太空任务",
