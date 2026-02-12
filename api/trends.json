@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T03:44:42.758793+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2026-02-13T04:24:08.299670+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 03时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时24分]"
         },
         {
           "title": "中国科学家在3D打印领域有新突破",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%9C%A83D%E6%89%93%E5%8D%B0%E9%A2%86%E5%9F%9F%E6%9C%89%E6%96%B0%E7%AA%81%E7%A0%B4",
           "source": "百度热搜",
           "ranks": [
-            28
+            28,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时44分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 04时24分]"
         }
       ]
     }
