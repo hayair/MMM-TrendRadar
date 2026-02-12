@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T23:41:38.909740+08:00",
-  "total_titles_processed": 2045,
+  "generated_at": "2026-02-13T00:46:31.036975+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "我国科学家在3D打印领域有新突破",
@@ -15,32 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时04分 ~ 23时41分]"
-        },
-        {
-          "title": "SpaceX为NASA商业载人计划执行的载人12号任务按计划推进发射准备。",
-          "url": "https://flash.jin10.com/detail/20260212213946065800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
-          "title": "巴西Flavio Bolsonaro：在我竞选总统一事上，Minas Gerais的Zema会是一个不错的副总统人选，但我们还没有谈及此事。",
-          "url": "https://wallstreetcn.com/livenews/3053915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时49分 ~ 04时29分]"
+          "time_info": "00时46分"
         }
       ]
     }
