@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T04:24:08.299670+08:00",
-  "total_titles_processed": 567,
+  "generated_at": "2026-02-13T05:24:40.969316+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 05时24分]"
         },
         {
           "title": "中国科学家在3D打印领域有新突破",
@@ -24,11 +24,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            24
+            24,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时44分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[03时44分 ~ 05时24分]"
         }
       ]
     }
