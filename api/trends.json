@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T07:20:24.511518+08:00",
-  "total_titles_processed": 698,
+  "generated_at": "2026-02-13T09:14:37.550411+08:00",
+  "total_titles_processed": 836,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 09时14分]"
         },
         {
           "title": "中国科学家在3D打印领域有新突破",
