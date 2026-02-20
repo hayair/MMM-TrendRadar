@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-02-20T23:31:16.634903+08:00",
-  "total_titles_processed": 1885,
+  "generated_at": "2026-02-21T00:26:53.066062+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国NASA将“星际客机”事故列为与航天飞机悲剧同级的重大事故",
-          "url": "https://wallstreetcn.com/livenews/3056720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时43分 ~ 04时22分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
