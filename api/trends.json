@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T15:45:33.032490+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2026-02-25T16:36:52.910452+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=KPL",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 15时45分]"
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 16时36分]"
         },
         {
           "title": "Prosus于2月16-20日当周按均价43.5011欧元回购股票205.8244万股，合计超过0.895亿欧元（折合将近1.057亿美元）。 同期，Naspers按均价900.6142南非兰特回购79.6820万股，合计超7.176亿兰特（折合将近0.447亿美元）。",
