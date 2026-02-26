@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-02-26T23:43:54.765919+08:00",
-  "total_titles_processed": 2053,
+  "generated_at": "2026-02-27T00:45:51.982322+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "墨西哥电视公司TV Azteca宣布自愿申请破产保护，该公司由大亨Ricardo Salinas Pliego所有。",
+          "url": "https://flash.jin10.com/detail/20260227002134762800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
