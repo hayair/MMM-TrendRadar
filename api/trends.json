@@ -1,63 +1,7 @@
 {
-  "generated_at": "2026-02-28T23:13:30.783879+08:00",
-  "total_titles_processed": 2156,
+  "generated_at": "2026-03-01T00:15:46.035263+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美国政府大战AI明星公司 NASA调整载人登月计划 | 环球市场",
-          "url": "https://www.cls.cn/detail/2297921",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时01分 ~ 19时11分]"
-        },
-        {
-          "title": "eStarPro vs DRG KPL春季赛",
-          "url": "https://search.bilibili.com/all?keyword=KPL",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时24分 ~ 17时17分]"
-        },
-        {
-          "title": "美国航空航天局（NASA）：水星、金星、海王星、土星、天王星和木星将于周六出现罕见的“六星连珠”现象。",
-          "url": "https://flash.jin10.com/detail/20260228113805881800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 13时26分]"
-        },
-        {
-          "title": "美国NASA突然为登月计划新增一次载人试飞",
-          "url": "https://wallstreetcn.com/livenews/3060418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
