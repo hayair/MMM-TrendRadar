@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-28T13:26:49.498699+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2026-02-28T14:25:14.262930+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "eStarPro vs DRG KPL春季赛",
+          "url": "https://search.bilibili.com/all?keyword=KPL",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 14时25分]"
+        },
         {
           "title": "美国政府大战AI明星公司 NASA调整载人登月计划 | 环球市场",
           "url": "https://www.cls.cn/detail/2297921",
@@ -14,11 +25,12 @@
           "ranks": [
             13,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时01分 ~ 13时26分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 14时25分]"
         },
         {
           "title": "美国航空航天局（NASA）：水星、金星、海王星、土星、天王星和木星将于周六出现罕见的“六星连珠”现象。",
