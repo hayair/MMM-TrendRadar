@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T02:28:40.537984+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-03-14T03:25:27.322154+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2429266",
           "source": "抖音",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 03时25分]"
         },
         {
           "title": "全球里程碑事件！国产跑赢Neuralink，上海造侵入式脑机接口医疗器械获批上市",
@@ -27,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 03时25分]"
         },
         {
           "title": "首款侵入式脑机接口医疗器械获批上市",
@@ -37,11 +38,12 @@
           "ranks": [
             22,
             16,
-            25
+            25,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 03时25分]"
         }
       ]
     }
