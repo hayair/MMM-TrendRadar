@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T01:27:54.991631+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-03-14T02:28:40.537984+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时28分]"
         },
         {
           "title": "全球里程碑事件！国产跑赢Neuralink，上海造侵入式脑机接口医疗器械获批上市",
           "url": "https://www.cls.cn/detail/2312371",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时28分]"
         },
         {
           "title": "首款侵入式脑机接口医疗器械获批上市",
@@ -35,11 +36,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             22,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时28分]"
         }
       ]
     }
