@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T20:34:19.738954+08:00",
-  "total_titles_processed": 1807,
+  "generated_at": "2026-03-13T21:53:49.068779+08:00",
+  "total_titles_processed": 1932,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             1,
             2,
             5,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时38分 ~ 20时34分]"
+          "appearance_count": 10,
+          "time_info": "[15时38分 ~ 21时53分]"
         },
         {
           "title": "侵入式脑机接口医疗器械获批上市",
@@ -31,8 +32,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时25分 ~ 20时34分]"
+          "appearance_count": 6,
+          "time_info": "[18时25分 ~ 21时53分]"
         },
         {
           "title": "首发！侵入式脑机接口医疗器械上市",
@@ -41,22 +42,24 @@
           "ranks": [
             21,
             23,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时33分 ~ 20时34分]"
+          "appearance_count": 5,
+          "time_info": "[17时33分 ~ 21时53分]"
         },
         {
           "title": "全球里程碑事件！国产跑赢Neuralink，上海造侵入式脑机接口医疗器械获批上市",
           "url": "https://www.cls.cn/detail/2312371",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 21时53分]"
         },
         {
           "title": "首款侵入式脑机接口医疗器械获批上市",
