@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T18:26:09.791139+08:00",
-  "total_titles_processed": 1617,
+  "generated_at": "2026-03-13T19:25:00.657878+08:00",
+  "total_titles_processed": 1707,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,36 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时38分 ~ 18时26分]"
+          "appearance_count": 8,
+          "time_info": "[15时38分 ~ 19时25分]"
         },
         {
           "title": "侵入式脑机接口医疗器械获批上市",
           "url": "https://www.douyin.com/hot/2429266",
           "source": "抖音",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 19时25分]"
+        },
+        {
+          "title": "首发！侵入式脑机接口医疗器械上市",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E5%8F%91%EF%BC%81%E4%BE%B5%E5%85%A5%E5%BC%8F%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%8C%BB%E7%96%97%E5%99%A8%E6%A2%B0%E4%B8%8A%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 19时25分]"
         },
         {
           "title": "首款侵入式脑机接口医疗器械获批上市",
@@ -51,17 +65,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
-        },
-        {
-          "title": "首发！侵入式脑机接口医疗器械上市",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E5%8F%91%EF%BC%81%E4%BE%B5%E5%85%A5%E5%BC%8F%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%8C%BB%E7%96%97%E5%99%A8%E6%A2%B0%E4%B8%8A%E5%B8%82",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时33分"
         }
       ]
     }
