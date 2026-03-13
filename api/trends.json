@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T21:53:49.068779+08:00",
-  "total_titles_processed": 1932,
+  "generated_at": "2026-03-13T22:36:33.711946+08:00",
+  "total_titles_processed": 2022,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             2,
             5,
             7,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时38分 ~ 21时53分]"
+          "appearance_count": 11,
+          "time_info": "[15时38分 ~ 22时36分]"
         },
         {
           "title": "侵入式脑机接口医疗器械获批上市",
@@ -32,8 +33,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时25分 ~ 21时53分]"
+          "appearance_count": 7,
+          "time_info": "[18时25分 ~ 22时36分]"
         },
         {
           "title": "首发！侵入式脑机接口医疗器械上市",
@@ -58,8 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时34分 ~ 21时53分]"
+          "appearance_count": 3,
+          "time_info": "[20时34分 ~ 22时36分]"
         },
         {
           "title": "首款侵入式脑机接口医疗器械获批上市",
