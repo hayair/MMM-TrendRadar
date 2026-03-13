@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T17:33:25.494537+08:00",
-  "total_titles_processed": 1500,
+  "generated_at": "2026-03-13T18:26:09.791139+08:00",
+  "total_titles_processed": 1617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "首款侵入式脑机接口医疗器械获批上市",
@@ -16,8 +16,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 17时33分]"
+          "appearance_count": 6,
+          "time_info": "[15时38分 ~ 18时26分]"
+        },
+        {
+          "title": "侵入式脑机接口医疗器械获批上市",
+          "url": "https://www.douyin.com/hot/2429266",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
         },
         {
           "title": "首款侵入式脑机接口医疗器械获批上市",
@@ -48,7 +59,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         }
