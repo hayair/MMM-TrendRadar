@@ -1,72 +1,7 @@
 {
-  "generated_at": "2026-03-14T23:19:27.226545+08:00",
-  "total_titles_processed": 1646,
+  "generated_at": "2026-03-15T00:19:17.634763+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "侵入式脑机接口医疗器械获批上市",
-          "url": "https://www.douyin.com/hot/2429266",
-          "source": "抖音",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 09时07分]"
-        },
-        {
-          "title": "全球里程碑事件！国产跑赢Neuralink，上海造侵入式脑机接口医疗器械获批上市",
-          "url": "https://www.cls.cn/detail/2312371",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 09时07分]"
-        },
-        {
-          "title": "首款侵入式脑机接口医疗器械获批上市",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A6%96%E6%AC%BE%E4%BE%B5%E5%85%A5%E5%BC%8F%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%8C%BB%E7%96%97%E5%99%A8%E6%A2%B0%E8%8E%B7%E6%89%B9%E4%B8%8A%E5%B8%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            16,
-            25,
-            19,
-            18,
-            17,
-            26,
-            20,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时27分 ~ 19时16分]"
-        },
-        {
-          "title": "女孩用胡萝卜啃出黄鹤楼 如3D打印机",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E7%94%A8%E8%83%A1%E8%90%9D%E5%8D%9C%E5%95%83%E5%87%BA%E9%BB%84%E9%B9%A4%E6%A5%BC+%E5%A6%823D%E6%89%93%E5%8D%B0%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时39分 ~ 17时23分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
