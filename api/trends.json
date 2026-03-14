@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T16:23:51.224297+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-03-14T17:23:38.317295+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
@@ -48,8 +48,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 16时23分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 17时23分]"
         },
         {
           "title": "女孩用胡萝卜啃出黄鹤楼 如3D打印机",
@@ -57,11 +57,12 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时39分 ~ 16时23分]"
+          "appearance_count": 5,
+          "time_info": "[13时39分 ~ 17时23分]"
         }
       ]
     }
