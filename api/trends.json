@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T17:45:05.997049+08:00",
-  "total_titles_processed": 1561,
+  "generated_at": "2026-03-17T18:40:32.906933+08:00",
+  "total_titles_processed": 1653,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国航空航天局（NASA）：团队目前计划不早于3月20日（周五）将“阿尔忒弥斯二号”火箭转运出库。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "首款侵入式脑机接口医疗器械获批上市，如何解读？对患者和行业有何意义？",
+          "url": "https://www.zhihu.com/question/2015795963210516016",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         }
       ]
     }
