@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T04:08:39.079072+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-03-19T04:34:35.349985+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=DRG%20AQ",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[02时43分 ~ 04时34分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市收跌约3.4%，金银矿业股、Prosus、以及Naspers领跌",
