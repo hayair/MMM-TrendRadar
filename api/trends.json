@@ -1,58 +1,7 @@
 {
-  "generated_at": "2026-03-20T23:34:36.492211+08:00",
-  "total_titles_processed": 2081,
+  "generated_at": "2026-03-21T00:32:11.524843+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "登月版图巨变 NASA拟让SpaceX替代波音核心职能",
-          "url": "https://flash.jin10.com/detail/20260320022527797800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "NASA计划让马斯克旗下太空探索公司SpaceX在登月活动中发挥更大作用。",
-          "url": "https://wallstreetcn.com/livenews/3073519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "美国NASA计划扩大SpaceX在登月任务中的角色，此举对波音构成打击",
-          "url": "https://wallstreetcn.com/livenews/3073519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时41分"
-        },
-        {
-          "title": "市场消息：NASA计划扩大SpaceX在月球任务中的角色，这对波音(BA.N)来说是个打击。",
-          "url": "https://flash.jin10.com/detail/20260320020022384800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
