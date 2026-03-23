@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T22:08:27.083137+08:00",
-  "total_titles_processed": 1753,
+  "generated_at": "2026-03-23T23:52:24.682958+08:00",
+  "total_titles_processed": 1872,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://search.bilibili.com/all?keyword=Life%E8%BD%AC%E4%BC%9ADRG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6",
           "source": "bilibili 热搜",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 20时41分]"
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 23时52分]"
         },
         {
           "title": "科华生物：实时荧光定量PCR仪获医疗器械注册证",
