@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T16:43:58.506862+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2026-03-23T17:53:47.356537+08:00",
+  "total_titles_processed": 1338,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "据知情人士透露，沙特阿美CEO Amin Nasser取消前往美国得州休斯顿参加CERAWeek的行程，将因伊朗冲突而滞留沙特。 科威特石油公司CEO Sheikh Nawaf Al-Sabah将在科威特按线上方式参与CERAWeek。（路透）",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时18分]"
+        },
+        {
+          "title": "科华生物：实时荧光定量PCR仪获医疗器械注册证",
+          "url": "https://flash.jin10.com/detail/20260323173410616800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         }
       ]
     }
