@@ -1,47 +1,7 @@
 {
-  "generated_at": "2026-03-25T22:11:46.016504+08:00",
-  "total_titles_processed": 2052,
+  "generated_at": "2026-03-26T00:00:15.855525+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "Claude加入“龙虾大战” NASA押注月球基地、核动力飞船 | 环球市场",
-          "url": "https://www.cls.cn/detail/2323662",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时11分 ~ 16时38分]"
-        },
-        {
-          "title": "美国NASA宣布：将研发核动力火星飞船",
-          "url": "https://wallstreetcn.com/livenews/3076073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "Prosus于3月16-20日按均价43.5292欧元回购股票291.9471万，合计将近1.271亿欧元（折合超1.463亿美元）。 Naspers同期按均价923.9596南非兰特回购135.3028万，合计1.250亿兰特（折合超0.740亿美元）。",
-          "url": "https://wallstreetcn.com/livenews/3076062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
