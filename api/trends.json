@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T15:46:41.786748+08:00",
-  "total_titles_processed": 1399,
+  "generated_at": "2026-03-25T16:38:21.045116+08:00",
+  "total_titles_processed": 1501,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时11分 ~ 15时46分]"
+          "appearance_count": 3,
+          "time_info": "[09时11分 ~ 16时38分]"
         },
         {
           "title": "美国NASA宣布：将研发核动力火星飞船",
