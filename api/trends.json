@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-03-30T22:21:20.168711+08:00",
-  "total_titles_processed": 1678,
-  "failed_sources": [],
+  "generated_at": "2026-03-31T00:01:42.142797+08:00",
+  "total_titles_processed": 304,
+  "failed_sources": [
+    "bilibili-hot-search"
+  ],
   "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
