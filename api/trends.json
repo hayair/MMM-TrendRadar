@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T00:02:36.957973+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-02T01:42:24.377565+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=DRG%20%20XLG",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时42分]"
         }
       ]
     }
