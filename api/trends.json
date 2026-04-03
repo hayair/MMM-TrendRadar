@@ -1,58 +1,7 @@
 {
-  "generated_at": "2026-04-03T23:33:01.152984+08:00",
-  "total_titles_processed": 2016,
+  "generated_at": "2026-04-04T00:28:51.291921+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "DRG vs NOVA VCT第一赛段",
-          "url": "https://search.bilibili.com/all?keyword=DRG%20NOVA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 17时44分]"
-        },
-        {
-          "title": "美康生物：取得葡萄糖-6-磷酸脱氢酶测定试剂盒医疗器械注册证",
-          "url": "https://flash.jin10.com/detail/20260403172732601800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
-          "title": "DRG战胜NOVA VCT第一赛段",
-          "url": "https://search.bilibili.com/all?keyword=DRG%20NOVA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "猎户座飞船发动机点火，NASA宇航员正按计划前往月球。",
-          "url": "https://wallstreetcn.com/livenews/3081853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
