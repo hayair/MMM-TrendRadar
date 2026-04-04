@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-04T18:24:11.980413+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-04-04T19:21:37.276187+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
       "match_count": 3,
       "titles": [
+        {
+          "title": "NASA登月为何死磕SLS",
+          "url": "https://www.douyin.com/hot/2454973",
+          "source": "抖音",
+          "ranks": [
+            9,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时31分 ~ 19时21分]"
+        },
         {
           "title": "美国白宫提议将2027年美国航空航天局（NASA）的预算削减23%，以支持国防开支增加。",
           "url": "https://flash.jin10.com/detail/20260404005316812800",
@@ -19,18 +32,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时26分 ~ 03时32分]"
-        },
-        {
-          "title": "NASA登月为何死磕SLS",
-          "url": "https://www.douyin.com/hot/2454973",
-          "source": "抖音",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 18时24分]"
         },
         {
           "title": "美国航空航天局（NASA）：阿尔忒弥斯（Artemis）计划宇航员已完成登月任务一半路程。",
