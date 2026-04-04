@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T22:25:26.210705+08:00",
-  "total_titles_processed": 1578,
+  "generated_at": "2026-04-04T23:21:52.607347+08:00",
+  "total_titles_processed": 1639,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时31分 ~ 22时25分]"
+          "appearance_count": 9,
+          "time_info": "[16时31分 ~ 23时21分]"
         },
         {
           "title": "NASA 公布阿尔忒弥斯 2 号上拍摄的地球照片，哪些细节值得关注？",
@@ -27,11 +27,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 22时25分]"
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 23时21分]"
         },
         {
           "title": "美国白宫提议将2027年美国航空航天局（NASA）的预算削减23%，以支持国防开支增加。",
