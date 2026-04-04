@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T12:07:46.792136+08:00",
-  "total_titles_processed": 825,
+  "generated_at": "2026-04-04T13:50:04.409094+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国白宫提议将2027年美国航空航天局（NASA）的预算削减23%，以支持国防开支增加。",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时26分 ~ 03时32分]"
+        },
+        {
+          "title": "美国航空航天局（NASA）：阿尔忒弥斯（Artemis）计划宇航员已完成登月任务一半路程。",
+          "url": "https://flash.jin10.com/detail/20260404122017067800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         }
       ]
     }
