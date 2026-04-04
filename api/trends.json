@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T06:18:59.256414+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2026-04-05T07:22:14.521358+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时22分]"
         },
         {
           "title": "NASA登月为何死磕SLS",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时22分]"
         }
       ]
     }
