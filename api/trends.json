@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T17:29:16.883002+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2026-04-04T18:24:11.980413+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "url": "https://www.douyin.com/hot/2454973",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时29分]"
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 18时24分]"
         },
         {
           "title": "美国航空航天局（NASA）：阿尔忒弥斯（Artemis）计划宇航员已完成登月任务一半路程。",
