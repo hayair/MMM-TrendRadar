@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T02:47:44.417986+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-04-10T03:58:08.850765+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时53分 ~ 03时58分]"
         },
         {
           "title": "NASA发布有史以来最清晰月球照",
@@ -28,8 +28,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 02时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 03时58分]"
         }
       ]
     }
