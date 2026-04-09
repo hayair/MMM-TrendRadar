@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T01:53:57.375741+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-04-10T02:47:44.417986+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=DRG%20WOL",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时53分 ~ 02时47分]"
         },
         {
           "title": "NASA发布有史以来最清晰月球照",
@@ -27,8 +28,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时47分]"
         }
       ]
     }
