@@ -1,88 +1,22 @@
 {
-  "generated_at": "2026-04-09T22:55:40.305069+08:00",
-  "total_titles_processed": 1875,
+  "generated_at": "2026-04-10T00:12:52.903546+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "NASA发布“最清晰的月球照片”",
-          "url": "https://www.douyin.com/hot/2459602",
-          "source": "抖音",
-          "ranks": [
-            5,
-            2,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时08分 ~ 14时14分]"
-        },
         {
           "title": "NASA发布有史以来最清晰月球照",
           "url": "https://www.toutiao.com/trending/7626135639670472746/",
           "source": "今日头条",
           "ranks": [
-            27,
-            1,
-            17,
-            15,
-            22,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时24分 ~ 22时55分]"
-        },
-        {
-          "title": "NASA发布“最清晰的月球照片”",
-          "url": "https://www.baidu.com/s?wd=NASA%E5%8F%91%E5%B8%83%E2%80%9C%E6%9C%80%E6%B8%85%E6%99%B0%E7%9A%84%E6%9C%88%E7%90%83%E7%85%A7%E7%89%87%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 14时14分]"
-        },
-        {
-          "title": "DRG vs WOL VCT第一赛段",
-          "url": "https://search.bilibili.com/all?keyword=DRG%20WOL",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "NASA发布最新月球照片",
-          "url": "https://search.bilibili.com/all?keyword=NASA%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%9C%88%E7%90%83%E7%85%A7%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时14分"
-        },
-        {
-          "title": "美国航空航天局（NASA）：新发布的照片​​展示了月球背面令人惊叹的细节。",
-          "url": "https://flash.jin10.com/detail/20260409064811998800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "00时12分"
         }
       ]
     }
