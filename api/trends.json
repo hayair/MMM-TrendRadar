@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T16:12:06.061905+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-04-09T18:03:38.427389+08:00",
+  "total_titles_processed": 1475,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "ranks": [
             27,
             1,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时24分 ~ 16时12分]"
+          "appearance_count": 6,
+          "time_info": "[12时24分 ~ 18时03分]"
         },
         {
           "title": "NASA发布“最清晰的月球照片”",
