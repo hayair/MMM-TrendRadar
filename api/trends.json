@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T19:05:26.817077+08:00",
-  "total_titles_processed": 1610,
+  "generated_at": "2026-04-10T20:15:43.651470+08:00",
+  "total_titles_processed": 1726,
   "failed_sources": [],
   "trends": [
     {
@@ -43,11 +43,12 @@
           "ranks": [
             14,
             15,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时16分 ~ 19时05分]"
+          "appearance_count": 5,
+          "time_info": "[16时16分 ~ 20时15分]"
         },
         {
           "title": "浙江：定期发布新药与创新医疗器械应用清单 省内医疗机构在清单发布1个月内按“应配尽配”原则配备使用",
