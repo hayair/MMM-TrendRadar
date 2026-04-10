@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T16:16:28.286018+08:00",
-  "total_titles_processed": 1353,
+  "generated_at": "2026-04-10T18:01:19.589747+08:00",
+  "total_titles_processed": 1503,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
           "url": "https://www.zhihu.com/question/2025509383656798056",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 18时01分]"
         },
         {
           "title": "浙江：定期发布新药与创新医疗器械应用清单 省内医疗机构在清单发布1个月内按“应配尽配”原则配备使用",
