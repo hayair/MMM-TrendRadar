@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T12:39:22.162231+08:00",
-  "total_titles_processed": 810,
+  "generated_at": "2026-04-12T14:19:05.005677+08:00",
+  "total_titles_processed": 891,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             6,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 12时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 14时19分]"
         },
         {
           "title": "中信建投：创新破局 中国医疗器械成长逻辑重塑",
