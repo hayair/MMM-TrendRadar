@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T22:48:18.535697+08:00",
-  "total_titles_processed": 1616,
+  "generated_at": "2026-04-14T00:06:58.342549+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
@@ -12,14 +12,11 @@
           "url": "https://search.bilibili.com/all?keyword=NASA%E5%AE%98%E5%AE%A3%E9%98%BF%E5%B0%94%E5%BF%92%E5%BC%A5%E6%96%AF2%E4%BB%BB%E5%8A%A1%E5%AE%8C%E6%88%90",
           "source": "bilibili 热搜",
           "ranks": [
-            18,
-            7,
-            16,
-            24
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时45分 ~ 22时48分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         }
       ]
     }
