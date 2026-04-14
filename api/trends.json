@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T22:50:44.230633+08:00",
-  "total_titles_processed": 1876,
+  "generated_at": "2026-04-15T00:02:17.739557+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
@@ -8,35 +8,26 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "DRG战胜TE VCT第一赛段",
+          "url": "https://search.bilibili.com/all?keyword=TE%20DRG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 00时02分]"
+        },
+        {
           "title": "NASA官宣阿尔忒弥斯2任务完成",
           "url": "https://search.bilibili.com/all?keyword=NASA%E5%AE%98%E5%AE%A3%E9%98%BF%E5%B0%94%E5%BF%92%E5%BC%A5%E6%96%AF2%E4%BB%BB%E5%8A%A1%E5%AE%8C%E6%88%90",
           "source": "bilibili 热搜",
           "ranks": [
-            23,
-            26,
-            27,
-            19,
-            30,
-            21,
-            15,
-            22,
-            14,
-            17
+            18
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时06分 ~ 22时50分]"
-        },
-        {
-          "title": "TE vs DRG VCT第一赛段",
-          "url": "https://search.bilibili.com/all?keyword=TE%20DRG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时59分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 00时02分]"
         }
       ]
     }
