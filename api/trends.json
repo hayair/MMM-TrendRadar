@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T06:36:58.905359+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2026-04-15T07:35:43.005579+08:00",
+  "total_titles_processed": 704,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             29,
             25,
             24,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时35分]"
         },
         {
           "title": "NASA官宣阿尔忒弥斯2任务完成",
@@ -31,11 +32,12 @@
             19,
             13,
             14,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 06时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 07时35分]"
         }
       ]
     }
