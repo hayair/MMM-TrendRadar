@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T19:51:44.325709+08:00",
-  "total_titles_processed": 1618,
+  "generated_at": "2026-04-14T20:59:59.827028+08:00",
+  "total_titles_processed": 1733,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "NASA官宣阿尔忒弥斯2任务完成",
@@ -20,11 +20,23 @@
             21,
             15,
             22,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时06分 ~ 19时51分]"
+          "appearance_count": 17,
+          "time_info": "[00时06分 ~ 20时59分]"
+        },
+        {
+          "title": "TE vs DRG VCT第一赛段",
+          "url": "https://search.bilibili.com/all?keyword=TE%20DRG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         }
       ]
     }
