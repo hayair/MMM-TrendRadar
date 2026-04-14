@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T00:02:17.739557+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-04-15T01:58:03.603129+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://search.bilibili.com/all?keyword=TE%20DRG",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 01时58分]"
         },
         {
           "title": "NASA官宣阿尔忒弥斯2任务完成",
           "url": "https://search.bilibili.com/all?keyword=NASA%E5%AE%98%E5%AE%A3%E9%98%BF%E5%B0%94%E5%BF%92%E5%BC%A5%E6%96%AF2%E4%BB%BB%E5%8A%A1%E5%AE%8C%E6%88%90",
           "source": "bilibili 热搜",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 01时58分]"
         }
       ]
     }
