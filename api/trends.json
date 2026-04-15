@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-04-16T01:01:51.963628+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-04-16T02:08:02.094498+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "3D打印食物是什么味道",
+          "url": "https://search.bilibili.com/all?keyword=3D%E6%89%93%E5%8D%B0%E9%A3%9F%E7%89%A9%E6%98%AF%E4%BB%80%E4%B9%88%E5%91%B3%E9%81%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时07分 ~ 02时08分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
