@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T19:27:30.211336+08:00",
-  "total_titles_processed": 1382,
+  "generated_at": "2026-04-18T20:37:44.901505+08:00",
+  "total_titles_processed": 1476,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=TYL%20DRG",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 20时37分]"
         },
         {
           "title": "TYL vs DRG VCT第一赛段",
