@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T22:05:39.199687+08:00",
-  "total_titles_processed": 1443,
+  "generated_at": "2026-05-02T23:38:10.056041+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "总统能上太空吗？特朗普现场发问，NASA局长：可以安排",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时44分 ~ 09时45分]"
+        },
+        {
+          "title": "EDG战胜DRG VCT第一赛段",
+          "url": "https://search.bilibili.com/all?keyword=EDG%20DRG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时37分 ~ 23时38分]"
         },
         {
           "title": "广州TTG vs 佛山DRG 挑战者杯",
@@ -41,6 +52,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时44分 ~ 22时05分]"
+        },
+        {
+          "title": "EDG 2:1 DRG",
+          "url": "https://www.douyin.com/hot/2486840",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时37分 ~ 23时38分]"
         }
       ]
     }
