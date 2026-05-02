@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T00:36:30.170747+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-03T01:37:11.583464+08:00",
+  "total_titles_processed": 356,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=EDG%20DRG",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时37分]"
         },
         {
           "title": "EDG 2:1 DRG",
@@ -26,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时37分]"
         },
         {
           "title": "EDG 2-1 DRG数据雷达图",
