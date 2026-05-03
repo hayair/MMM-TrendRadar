@@ -1,71 +1,22 @@
 {
-  "generated_at": "2026-05-03T23:38:09.581657+08:00",
-  "total_titles_processed": 1368,
+  "generated_at": "2026-05-04T00:37:07.470912+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "EDG战胜DRG VCT第一赛段",
-          "url": "https://search.bilibili.com/all?keyword=EDG%20DRG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            4,
-            2,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 09时49分]"
-        },
-        {
-          "title": "EDG 2:1 DRG",
-          "url": "https://www.douyin.com/hot/2486840",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 09时49分]"
-        },
         {
           "title": "全世界都爱 F1 和勒芒，美国人为什么偏偏喜欢看 NASCAR 转圈？",
           "url": "https://www.zhihu.com/question/65567108",
           "source": "知乎",
           "ranks": [
-            17
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时37分 ~ 23时38分]"
-        },
-        {
-          "title": "EDG 2-1 DRG数据雷达图",
-          "url": "https://search.bilibili.com/all?keyword=EDG%202-1%20DRG%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 04时31分]"
-        },
-        {
-          "title": "EDG战胜DRG",
-          "url": "https://s.weibo.com/weibo?q=EDG%E6%88%98%E8%83%9CDRG&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时13分"
+          "time_info": "[00时36分 ~ 00时37分]"
         }
       ]
     }
