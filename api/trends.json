@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T07:34:07.944494+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-05-03T09:49:13.786031+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             3,
             4,
             2,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时34分]"
+          "appearance_count": 14,
+          "time_info": "[00时36分 ~ 09时49分]"
         },
         {
           "title": "EDG 2:1 DRG",
@@ -29,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时34分]"
+          "appearance_count": 14,
+          "time_info": "[00时36分 ~ 09时49分]"
         },
         {
           "title": "EDG 2-1 DRG数据雷达图",
