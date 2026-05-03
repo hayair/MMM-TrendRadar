@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T22:06:30.318077+08:00",
-  "total_titles_processed": 1268,
+  "generated_at": "2026-05-03T23:38:09.581657+08:00",
+  "total_titles_processed": 1368,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "EDG战胜DRG VCT第一赛段",
@@ -32,6 +32,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时36分 ~ 09时49分]"
+        },
+        {
+          "title": "全世界都爱 F1 和勒芒，美国人为什么偏偏喜欢看 NASCAR 转圈？",
+          "url": "https://www.zhihu.com/question/65567108",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时37分 ~ 23时38分]"
         },
         {
           "title": "EDG 2-1 DRG数据雷达图",
