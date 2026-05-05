@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T01:27:47.862761+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-06T03:07:15.744507+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=JDG%20DRG",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时07分]"
         }
       ]
     }
