@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-05-06T23:21:59.818461+08:00",
-  "total_titles_processed": 1604,
+  "generated_at": "2026-05-07T01:23:19.527624+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DRG战胜JDG VCT第一赛段",
-          "url": "https://search.bilibili.com/all?keyword=JDG%20DRG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            6,
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时27分 ~ 09时50分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
