@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T00:09:46.491171+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-05-09T02:05:08.873260+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.zhihu.com/question/2036190367217705690",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 02时05分]"
         },
         {
           "title": "DRG战胜AG VCT第一赛段",
           "url": "https://search.bilibili.com/all?keyword=AG%20DRG",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 02时05分]"
         }
       ]
     }
