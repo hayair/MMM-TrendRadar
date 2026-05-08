@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T05:49:13.499710+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-05-09T06:45:31.433189+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 05时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 06时45分]"
         },
         {
           "title": "DRG战胜AG VCT第一赛段",
@@ -28,11 +28,12 @@
             16,
             18,
             15,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 05时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 06时45分]"
         },
         {
           "title": "北京JDG战胜佛山DRG 挑战者杯",
