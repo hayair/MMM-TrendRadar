@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T04:04:24.329067+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-05-09T05:49:13.499710+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国公布首批 UFO 文件，包含 NASA 登月期间的神秘影像等，有哪些内容值得关注？",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 05时49分]"
         },
         {
           "title": "DRG战胜AG VCT第一赛段",
@@ -27,11 +27,23 @@
           "ranks": [
             16,
             18,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 05时49分]"
+        },
+        {
+          "title": "北京JDG战胜佛山DRG 挑战者杯",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%ACJDG%20%E4%BD%9B%E5%B1%B1DRG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时48分 ~ 05时49分]"
         }
       ]
     }
