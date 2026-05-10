@@ -1,53 +1,7 @@
 {
-  "generated_at": "2026-05-10T23:42:57.705063+08:00",
-  "total_titles_processed": 1359,
+  "generated_at": "2026-05-11T00:41:44.465175+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "XLG战胜DRG",
-          "url": "https://search.bilibili.com/all?keyword=XLG%20DRG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            13,
-            11,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时41分 ~ 06时33分]"
-        },
-        {
-          "title": "佛山DRG vs 无锡TCG 挑战者杯",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BD%9B%E5%B1%B1DRG%20%E6%97%A0%E9%94%A1TCG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时55分 ~ 17时22分]"
-        },
-        {
-          "title": "佛山DRG战胜无锡TCG 挑战者杯",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BD%9B%E5%B1%B1DRG%20%E6%97%A0%E9%94%A1TCG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时54分 ~ 19时42分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
