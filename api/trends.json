@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-19T21:49:05.263808+08:00",
-  "total_titles_processed": 1341,
+  "generated_at": "2026-05-20T00:44:44.727056+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Prosus于5月11-15日当周按均价39.1689欧元回购股票250万股，合计将近0.996亿欧元（折合约1.166亿美元）。 Naspers同期按均价859.6349南非兰特回购股票105.6649万股，合计超9.083亿兰特（折合超0.551亿美元）。",
+          "url": "https://wallstreetcn.com/livenews/3106149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
