@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T07:10:11.008304+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-06-10T10:12:03.343378+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "XLG战胜DRG",
@@ -17,8 +17,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时06分 ~ 07时10分]"
+          "appearance_count": 6,
+          "time_info": "[03时06分 ~ 10时12分]"
+        },
+        {
+          "title": "复盘happywei35杀DRG",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98happywei35%E6%9D%80DRG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "如何评价DRG表现",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7DRG%E8%A1%A8%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
         },
         {
           "title": "Prosus于6月5日当周按均价40.7439欧元回购股票263.1597万股，合计超过1.072亿欧元（折合超1.245亿美元）。 Naspers同期按均价889.6830南非兰特回购90.5808万股，合计将近8.059亿兰特（折合将近0.495亿美元）。",
