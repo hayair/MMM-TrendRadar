@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T14:58:20.483122+08:00",
-  "total_titles_processed": 950,
+  "generated_at": "2026-06-10T18:52:21.059027+08:00",
+  "total_titles_processed": 1150,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时11分 ~ 14时58分]"
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 18时52分]"
+        },
+        {
+          "title": "XLG战胜DRG拿下CN首胜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355034&amp;topic_name=XLG%E6%88%98%E8%83%9CDRG%E6%8B%BF%E4%B8%8BCN%E9%A6%96%E8%83%9C",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时58分 ~ 18时52分]"
         },
         {
           "title": "如何评价DRG表现",
@@ -43,17 +56,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "XLG战胜DRG拿下CN首胜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355034&amp;topic_name=XLG%E6%88%98%E8%83%9CDRG%E6%8B%BF%E4%B8%8BCN%E9%A6%96%E8%83%9C",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时58分"
         },
         {
           "title": "Prosus于6月5日当周按均价40.7439欧元回购股票263.1597万股，合计超过1.072亿欧元（折合超1.245亿美元）。 Naspers同期按均价889.6830南非兰特回购90.5808万股，合计将近8.059亿兰特（折合将近0.495亿美元）。",
