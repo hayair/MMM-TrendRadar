@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T08:08:34.120903+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-06-11T13:20:37.568718+08:00",
+  "total_titles_processed": 814,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355034&amp;topic_name=XLG%E6%88%98%E8%83%9CDRG%E6%8B%BF%E4%B8%8BCN%E9%A6%96%E8%83%9C",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时50分 ~ 08时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时50分 ~ 13时20分]"
         }
       ]
     }
