@@ -1,40 +1,7 @@
 {
-  "generated_at": "2026-06-18T22:44:14.169307+08:00",
-  "total_titles_processed": 1332,
+  "generated_at": "2026-06-19T02:00:08.269789+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "TTG战胜佛山DRG KPL",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BD%9B%E5%B1%B1DRG%20%E5%B9%BF%E5%B7%9ETTG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 07时16分]"
-        },
-        {
-          "title": "TTG战胜DRG 赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=TTG%E6%88%98%E8%83%9CDRG%20%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 05时55分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
