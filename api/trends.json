@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T19:38:41.752475+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2026-06-26T22:03:06.247836+08:00",
+  "total_titles_processed": 1421,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%BD%9B%E5%B1%B1DRG%20%E9%95%BF%E6%B2%99TES.A",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时48分 ~ 16时49分]"
+          "appearance_count": 3,
+          "time_info": "[16时48分 ~ 22时03分]"
         },
         {
           "title": "Rocket Lab美股盘后涨幅扩大至5%，该公司赢得一份NASA合同。",
