@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-06-29T20:57:23.941882+08:00",
-  "total_titles_processed": 1213,
+  "generated_at": "2026-06-30T00:34:18.496401+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "拼豆正式进入3D打印美甲猫眼时代",
-          "url": "https://s.weibo.com/weibo?q=%E6%8B%BC%E8%B1%86%E6%AD%A3%E5%BC%8F%E8%BF%9B%E5%85%A53D%E6%89%93%E5%8D%B0%E7%BE%8E%E7%94%B2%E7%8C%AB%E7%9C%BC%E6%97%B6%E4%BB%A3&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时01分 ~ 04时52分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
