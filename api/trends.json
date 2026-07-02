@@ -1,38 +1,7 @@
 {
-  "generated_at": "2026-07-02T23:04:58.523167+08:00",
-  "total_titles_processed": 1481,
+  "generated_at": "2026-07-03T01:25:59.334629+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "佛山DRG战胜SYG KPL",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BD%9B%E5%B1%B1DRG%20SYG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时28分 ~ 07时01分]"
-        },
-        {
-          "title": "美国航空航天局（NASA）：Swift Boost任务的发射已推迟。团队正在审查数据。",
-          "url": "https://flash.jin10.com/detail/20260702192300068800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时03分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
