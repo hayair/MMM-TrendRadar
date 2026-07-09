@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T01:12:18.266074+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-07-10T03:20:50.888605+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%BD%9B%E5%B1%B1DRG%20%E6%AD%A6%E6%B1%89eStarPro",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 03时20分]"
         },
         {
           "title": "DRG战胜BLG",
