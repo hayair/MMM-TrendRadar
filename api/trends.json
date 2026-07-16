@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T04:45:06.250451+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-07-17T05:55:34.833608+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             2,
             4,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 04时45分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 05时55分]"
         },
         {
           "title": "上海RNG.M战胜佛山DRG KPL",
@@ -29,11 +30,12 @@
             14,
             21,
             13,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 04时45分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 05时55分]"
         }
       ]
     }
