@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T01:03:08.457853+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-17T02:55:36.917216+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://search.bilibili.com/all?keyword=XLG%20DRG",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 02时55分]"
         },
         {
           "title": "上海RNG.M战胜佛山DRG KPL",
           "url": "https://search.bilibili.com/all?keyword=%E4%BD%9B%E5%B1%B1DRG%20%E4%B8%8A%E6%B5%B7RNG.M",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 02时55分]"
         }
       ]
     }
