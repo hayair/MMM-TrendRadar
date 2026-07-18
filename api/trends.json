@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T18:08:52.960941+08:00",
-  "total_titles_processed": 1265,
+  "generated_at": "2026-07-18T19:44:23.098366+08:00",
+  "total_titles_processed": 1363,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时41分 ~ 18时08分]"
+          "appearance_count": 4,
+          "time_info": "[16时41分 ~ 19时44分]"
         },
         {
           "title": "佛山DRG vs WST KPL",
