@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T16:42:07.644060+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-07-18T18:08:52.960941+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%BD%9B%E5%B1%B1DRG%20WST",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 16时42分]"
+          "appearance_count": 3,
+          "time_info": "[16时41分 ~ 18时08分]"
         },
         {
           "title": "佛山DRG vs WST KPL",
