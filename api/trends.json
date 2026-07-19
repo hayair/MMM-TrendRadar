@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T22:20:12.078065+08:00",
-  "total_titles_processed": 1518,
+  "generated_at": "2026-07-19T23:45:52.359113+08:00",
+  "total_titles_processed": 1612,
   "failed_sources": [],
   "trends": [
     {
@@ -23,6 +23,18 @@
           "time_info": "[00时43分 ~ 07时42分]"
         },
         {
+          "title": "WOL战胜DRG VCT第二赛段",
+          "url": "https://search.bilibili.com/all?keyword=DRG%20WOL",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时19分 ~ 23时45分]"
+        },
+        {
           "title": "DRG vs WOL VCT第二赛段",
           "url": "https://search.bilibili.com/all?keyword=DRG%20WOL",
           "source": "bilibili 热搜",
@@ -32,17 +44,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时03分 ~ 19时04分]"
-        },
-        {
-          "title": "WOL战胜DRG VCT第二赛段",
-          "url": "https://search.bilibili.com/all?keyword=DRG%20WOL",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 22时20分]"
         }
       ]
     }
