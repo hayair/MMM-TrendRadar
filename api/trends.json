@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T00:43:37.548243+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-20T01:48:04.076260+08:00",
+  "total_titles_processed": 358,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=DRG%20WOL",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 01时48分]"
         }
       ]
     }
