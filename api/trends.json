@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T20:19:09.900969+08:00",
-  "total_titles_processed": 1447,
+  "generated_at": "2026-07-21T22:55:18.873443+08:00",
+  "total_titles_processed": 1610,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%BD%9B%E5%B1%B1DRG%20%E8%A5%BF%E5%AE%89WE",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时18分 ~ 20时19分]"
+          "appearance_count": 3,
+          "time_info": "[20时18分 ~ 22时55分]"
         },
         {
           "title": "佛山DRG vs 西安WE KPL",
