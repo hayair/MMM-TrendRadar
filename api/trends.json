@@ -1,47 +1,22 @@
 {
-  "generated_at": "2026-07-22T22:55:11.112875+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2026-07-23T00:14:10.274425+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "佛山DRG战胜西安WE",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BD%9B%E5%B1%B1DRG%20%E8%A5%BF%E5%AE%89WE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            4,
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 09时26分]"
-        },
-        {
-          "title": "AG vs DRG VCT第二赛段",
+          "title": "AG战胜DRG VCT第二赛段",
           "url": "https://search.bilibili.com/all?keyword=AG%20DRG",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时54分 ~ 22时55分]"
-        },
-        {
-          "title": "Prosus于7月13-17日期间按均价39.7892欧元回购股票206.5240万股，合计将近0.822亿欧元（折合超0.939亿美元）。 同期，Naspers按均价866.1325南非兰特回购68.6210万股，合计超5.943亿兰特（折合超0.362亿美元）。",
-          "url": "https://wallstreetcn.com/livenews/3137662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "[00时13分 ~ 00时14分]"
         }
       ]
     }
