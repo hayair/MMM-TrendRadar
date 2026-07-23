@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T06:46:23.189079+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-07-24T07:50:57.474299+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             26,
             21,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时07分 ~ 06时46分]"
+          "appearance_count": 5,
+          "time_info": "[02时07分 ~ 07时50分]"
         },
         {
           "title": "俄罗斯：打击乌克兰Pivdennyi港口的诸多设施。（国际文传电讯社IFX）",
