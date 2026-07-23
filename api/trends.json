@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T18:59:22.609284+08:00",
-  "total_titles_processed": 1384,
+  "generated_at": "2026-07-23T20:23:05.541824+08:00",
+  "total_titles_processed": 1511,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%9C%B3DYG%20%E4%BD%9B%E5%B1%B1DRG",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时59分 ~ 20时23分]"
         },
         {
           "title": "DYG对战DRG",
@@ -37,7 +38,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         }
