@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T16:10:17.062160+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2026-07-23T18:59:22.609284+08:00",
+  "total_titles_processed": 1384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "AG战胜DRG VCT第二赛段",
@@ -18,6 +18,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时13分 ~ 05时56分]"
+        },
+        {
+          "title": "佛山DRG战胜深圳DYG",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%9C%B3DYG%20%E4%BD%9B%E5%B1%B1DRG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
+          "title": "DYG对战DRG",
+          "url": "https://s.weibo.com/weibo?q=%23DYG%E5%AF%B9%E6%88%98DRG%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         }
       ]
     }
