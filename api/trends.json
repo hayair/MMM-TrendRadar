@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T20:23:05.541824+08:00",
-  "total_titles_processed": 1511,
+  "generated_at": "2026-07-23T23:02:11.105602+08:00",
+  "total_titles_processed": 1700,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时59分 ~ 20时23分]"
+          "appearance_count": 5,
+          "time_info": "[18时59分 ~ 23时02分]"
         },
         {
           "title": "DYG对战DRG",
