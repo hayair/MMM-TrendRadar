@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-08-10T23:50:45.245773+08:00",
-  "total_titles_processed": 1826,
+  "generated_at": "2026-08-11T00:42:37.645745+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "医疗器械 IVD 检验医学 体外诊断 DRG DIP 检验科 医学检验 NAS 飞牛 FnNAS 铝型材DIY 3D打印 fnOS 肌钙蛋白 降钙素原 可溶性生长刺激表达基因2蛋白 分子互作 SPR表面等离子共振 丹纳赫 赛多利斯 BLI生物膜层干涉 链霉亲和素 biacore Gator Bio 小鳄生物 星童医疗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "TEC vs DRG VCT第二赛段",
-          "url": "https://search.bilibili.com/all?keyword=TEC%20DRG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时42分 ~ 20时43分]"
-        },
-        {
-          "title": "TEC战胜DRG",
-          "url": "https://search.bilibili.com/all?keyword=TEC%20DRG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
